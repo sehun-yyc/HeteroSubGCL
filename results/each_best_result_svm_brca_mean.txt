@@ -1,0 +1,363 @@
+训练时间：587.99 秒 #'model_based' threshold='median' 20210 2500 445
+十次五倍交叉平均结果
+Precision : 0.8073
+Recall : 0.7939
+f1score : 0.7961
+ACC : 0.8406
+ARI : 0.6262
+MCC : 0.7408
+AUC : 0.9639
+PR_AUC : 0.9195
+DBI : 0.6534
+silhouette_width : 0.5970
+训练时间：362.25 秒
+十次五倍交叉平均结果 # percentile=40 8084 2000 356
+Precision : 0.8255
+Recall : 0.8172
+f1score : 0.8170
+ACC : 0.8551
+ARI : 0.6540
+MCC : 0.7647
+AUC : 0.9634
+PR_AUC : 0.9207
+DBI : 0.5980
+silhouette_width : 0.6359
+# percentile=50 10105 2500 444训练时间：400.61 秒
+十次五倍交叉平均结果
+Precision : 0.8197
+Recall : 0.8105
+f1score : 0.8106
+ACC : 0.8522
+ARI : 0.6500
+MCC : 0.7601
+AUC : 0.9635
+PR_AUC : 0.9208
+DBI : 0.6081
+silhouette_width : 0.6295
+# percentile=30 6063 1500 267训练时间：322.65 秒
+十次五倍交叉平均结果
+Precision : 0.8247
+Recall : 0.8149
+f1score : 0.8155
+ACC : 0.8536
+ARI : 0.6485
+MCC : 0.7624
+AUC : 0.9616
+PR_AUC : 0.9164
+DBI : 0.5912
+silhouette_width : 0.6368
+#去掉transformer训练时间：200.53 秒
+十次五倍交叉平均结果
+Precision : 0.8356
+Recall : 0.8168
+f1score : 0.8217
+ACC : 0.8573
+ARI : 0.6564
+MCC : 0.7678
+AUC : 0.9655
+PR_AUC : 0.9206
+DBI : 0.7090
+silhouette_width : 0.5517
+#去掉transformer # percentile=35 7074 1750 311训练时间：221.74 秒
+十次五倍交叉平均结果
+Precision : 0.8340
+Recall : 0.8179
+f1score : 0.8218
+ACC : 0.8568
+ARI : 0.6545
+MCC : 0.7671
+AUC : 0.9653
+PR_AUC : 0.9197
+DBI : 0.7142
+silhouette_width : 0.5552
+#去掉transformer # percentile=25 5053 1250 222训练时间：183.12 秒
+十次五倍交叉平均结果
+Precision : 0.8320
+Recall : 0.8151
+f1score : 0.8187
+ACC : 0.8557
+ARI : 0.6545
+MCC : 0.7653
+AUC : 0.9646
+PR_AUC : 0.9172
+DBI : 0.7134
+silhouette_width : 0.5515
+#去掉transformer # percentile=36 7276 1800 320训练时间：226.75 秒
+十次五倍交叉平均结果
+Precision : 0.8306
+Recall : 0.8143
+f1score : 0.8180
+ACC : 0.8562
+ARI : 0.6545
+MCC : 0.7661
+AUC : 0.9662
+PR_AUC : 0.9222
+DBI : 0.7186
+silhouette_width : 0.5506
+#去掉transformer # percentile=37 7276 1800 320训练时间：229.76 秒
+十次五倍交叉平均结果
+Precision : 0.8313
+Recall : 0.8162
+f1score : 0.8198
+ACC : 0.8560
+ARI : 0.6551
+MCC : 0.7661
+AUC : 0.9665
+PR_AUC : 0.9231
+DBI : 0.7208
+silhouette_width : 0.5500
+#去掉transformer # percentile=20 4042 1000 178训练时间：160.00 秒
+十次五倍交叉平均结果
+Precision : 0.8298
+Recall : 0.8133
+f1score : 0.8164
+ACC : 0.8532
+ARI : 0.6476
+MCC : 0.7612
+AUC : 0.9638
+PR_AUC : 0.9163
+DBI : 0.7149
+silhouette_width : 0.5507
+#去掉transformer # percentile=34 6872 1700 302训练时间：218.19 秒
+十次五倍交叉平均结果
+Precision : 0.8339
+Recall : 0.8150
+f1score : 0.8200
+ACC : 0.8567
+ARI : 0.6548
+MCC : 0.7668
+AUC : 0.9654
+PR_AUC : 0.9196
+DBI : 0.7077
+silhouette_width : 0.5545
+
+
+#gbm
+#去掉transformer # percentile=35 4215 1750 187训练时间：147.88 秒
+十次五倍交叉平均结果
+Precision : 0.8380
+Recall : 0.8400
+f1score : 0.8317
+ACC : 0.8415
+ARI : 0.6185
+MCC : 0.7868
+AUC : 0.9695
+PR_AUC : 0.9296
+DBI : 0.7621
+silhouette_width : 0.4878
+
+#40
+训练时间：159.04 秒
+十次五倍交叉平均结果
+Precision : 0.8508
+Recall : 0.8519
+f1score : 0.8439
+ACC : 0.8516
+ARI : 0.6384
+MCC : 0.8010
+AUC : 0.9701
+PR_AUC : 0.9316
+DBI : 0.7664
+silhouette_width : 0.4841
+
+#45
+训练时间：168.54 秒
+十次五倍交叉平均结果
+Precision : 0.8431
+Recall : 0.8436
+f1score : 0.8366
+ACC : 0.8452
+ARI : 0.6268
+MCC : 0.7913
+AUC : 0.9702
+PR_AUC : 0.9309
+DBI : 0.7682
+silhouette_width : 0.4830
+
+#38
+训练时间：154.11 秒
+十次五倍交叉平均结果
+Precision : 0.8403
+Recall : 0.8412
+f1score : 0.8332
+ACC : 0.8440
+ARI : 0.6258
+MCC : 0.7901
+AUC : 0.9706
+PR_AUC : 0.9315
+DBI : 0.7656
+silhouette_width : 0.4861
+
+#42
+训练时间：162.93 秒
+十次五倍交叉平均结果
+Precision : 0.8425
+Recall : 0.8430
+f1score : 0.8357
+ACC : 0.8452
+ARI : 0.6274
+MCC : 0.7914
+AUC : 0.9702
+PR_AUC : 0.9314
+DBI : 0.7658
+silhouette_width : 0.4844
+
+#brca的40
+训练时间：245.14 秒
+十次五倍交叉平均结果
+Precision : 0.8328
+Recall : 0.8167
+f1score : 0.8207
+ACC : 0.8567
+ARI : 0.6553
+MCC : 0.7666
+AUC : 0.9661
+PR_AUC : 0.9204
+DBI : 0.7199
+silhouette_width : 0.5498
+训练时间：244.71 秒
+十次五倍交叉平均结果
+Precision : 0.8328
+Recall : 0.8167
+f1score : 0.8207
+ACC : 0.8567
+ARI : 0.6553
+MCC : 0.7666
+AUC : 0.9661
+PR_AUC : 0.9204
+DBI : 0.7199
+silhouette_width : 0.5498
+训练时间：245.43 秒
+十次五倍交叉平均结果
+Precision : 0.8295
+Recall : 0.8140
+f1score : 0.8157
+ACC : 0.8548
+ARI : 0.6556
+MCC : 0.7638
+AUC : 0.9659
+PR_AUC : 0.9206
+DBI : 0.7171
+silhouette_width : 0.5529
+
+#brca 45 40 40
+训练时间：260.24 秒
+十次五倍交叉平均结果
+Precision : 0.8243
+Recall : 0.8124
+f1score : 0.8140
+ACC : 0.8533
+ARI : 0.6500
+MCC : 0.7613
+AUC : 0.9662
+PR_AUC : 0.9213
+DBI : 0.7287
+silhouette_width : 0.5466
+
+#brca 40 45 40
+训练时间：247.55 秒
+十次五倍交叉平均结果
+Precision : 0.8259
+Recall : 0.8115
+f1score : 0.8144
+ACC : 0.8553
+ARI : 0.6551
+MCC : 0.7646
+AUC : 0.9664
+PR_AUC : 0.9213
+DBI : 0.7186
+silhouette_width : 0.5496
+
+#brca 40 45 45
+训练时间：247.44 秒
+十次五倍交叉平均结果
+Precision : 0.8312
+Recall : 0.8154
+f1score : 0.8192
+ACC : 0.8563
+ARI : 0.6558
+MCC : 0.7663
+AUC : 0.9667
+PR_AUC : 0.9225
+DBI : 0.7112
+silhouette_width : 0.5531
+
+#brca 30 45 50训练时间：219.94 秒
+十次五倍交叉平均结果
+Precision : 0.8365
+Recall : 0.8178
+f1score : 0.8222
+ACC : 0.8579
+ARI : 0.6577
+MCC : 0.7691
+AUC : 0.9659
+PR_AUC : 0.9200
+DBI : 0.7100
+silhouette_width : 0.5529
+
+#brca 40 45 50训练时间：248.80 秒
+十次五倍交叉平均结果
+Precision : 0.8249
+Recall : 0.8127
+f1score : 0.8139
+ACC : 0.8528
+ARI : 0.6482
+MCC : 0.7610
+AUC : 0.9660
+PR_AUC : 0.9212
+DBI : 0.7231
+silhouette_width : 0.5459
+
+#brca 34 45 50训练时间：229.81 秒
+十次五倍交叉平均结果
+Precision : 0.8305
+Recall : 0.8124
+f1score : 0.8167
+ACC : 0.8546
+ARI : 0.6518
+MCC : 0.7638
+AUC : 0.9664
+PR_AUC : 0.9222
+DBI : 0.7111
+silhouette_width : 0.5534
+
+#brca 42 45 50训练时间：255.53 秒
+十次五倍交叉平均结果
+Precision : 0.8309
+Recall : 0.8125
+f1score : 0.8170
+ACC : 0.8557
+ARI : 0.6548
+MCC : 0.7652
+AUC : 0.9658
+PR_AUC : 0.9208
+DBI : 0.7075
+silhouette_width : 0.5483
+
+#brca 42 40 45
+
+#brca 42 45 50训练时间：255.47 秒
+十次五倍交叉平均结果
+Precision : 0.8309
+Recall : 0.8125
+f1score : 0.8170
+ACC : 0.8557
+ARI : 0.6548
+MCC : 0.7652
+AUC : 0.9658
+PR_AUC : 0.9208
+DBI : 0.7075
+silhouette_width : 0.5483
+
+#brca 40 45 50训练时间：248.05 秒
+十次五倍交叉平均结果
+Precision : 0.8249
+Recall : 0.8127
+f1score : 0.8139
+ACC : 0.8528
+ARI : 0.6482
+MCC : 0.7610
+AUC : 0.9660
+PR_AUC : 0.9212
+DBI : 0.7231
+silhouette_width : 0.5459
